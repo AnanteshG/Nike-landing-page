@@ -75,13 +75,13 @@ export const reviews = [
         imgURL: customer1,
         customerName: 'Walter White',
         rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        feedback: "These shoes are so amazing, they make me want to leave the meth business and start my own shoe empire!"
     },
     {
         imgURL: customer2,
         customerName: 'Skyler White',
         rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        feedback: "Ted, I love these shoes more than my Husband!"
     }
 ];
 
